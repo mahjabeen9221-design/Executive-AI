@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Executive Gemini Interface",
+  "description": "A high-end, executive-themed chatbot interface featuring Gemini-powered text, coding (Python), and advanced image generation and editing using Nano Banana models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
